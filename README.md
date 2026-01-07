@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cixity</h1>
-<h3 align="center">A developer from The Republic Of Moldova</h3>
+<h3 align="center">AI Engineer from The Republic Of Moldova</h3>
 
-- 🌱 I’m currently learning **c# and node.js**
+- 🌱 I’m currently learning **ML & CAG & RAG**
 
 - 📫 How to reach me **frunzaalexandru3@gmail.com**
 
